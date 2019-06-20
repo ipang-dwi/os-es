@@ -1,0 +1,15 @@
+Hal-hal yang perlu dilakukan setelah menginstall Windows 10.
+- Jangan mengkatifkan dahulu koneksi internet.
+- Aktifkan user Administrator dengan cara 
+> net user Administrator /active:yes
+- Menghapus akun yang tidak terpakai dan memberi password akun Administrator
+- Gunakan WPD untuk menonaktifkan semua spyware bawaan Windows 10, hapus juga semua app bawaan yang tidak perlu
+- Pinned WPD pada taskbar, agar dapat notifikasi bila ada update
+- Install Free Antivirus - Avast
+- Aktifkan internet
+- Aktifkan Windows 10 dengan Windows 10 Digital License Ultimate 1.1
+- Ubah theme jadi dark mode
+- Install chrome, xdm, firefox, drp online, dd
+- Install dan update driver online
+- Backup driver dengan double driver, atau restore bila sudah ada backup
+- Install notepad++, 7zip, netmeter evo, minitool pw, crystaldiskinfo
